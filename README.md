@@ -7,3 +7,5 @@ Senior Game Developer at MildMania Corp., building mobile games in Unity since 2
 ## 📫 Find Me
 
 [Mail](mailto:defnetuncer98@gmail.com) · [LinkedIn](https://linkedin.com/in/defnetuncer98) · [Resume](https://defnetuncer98.github.io/src/docs/DEFNE%20TUNCER.pdf) · [Portfolio](https://defnetuncer98.github.io/) · [ArtStation](https://www.artstation.com/defnetuncer98)
+
+![](src/a_cube_story.gif)
